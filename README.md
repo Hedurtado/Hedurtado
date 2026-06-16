@@ -87,6 +87,3 @@ This work was presented at CSEI 2023 and published in Springer’s Lecture Notes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hurtaedu/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat\&logo=orcid\&logoColor=white)](https://orcid.org/0009-0001-2331-0816)
 
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=hedurtado\&label=Profile%20Views\&color=10\&icon=6\&pretty=false)
