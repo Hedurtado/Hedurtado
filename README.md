@@ -1,34 +1,44 @@
 # Hi, I'm Edwin Hurtado 👋
 
-  I am a Mathematics student at **Yachay Tech University** interested in **data analysis, statistics, machine learning, algorithms, and applied programming**.
+  I am a Mathematics student at **Yachay Tech University** interested in **data analysis, statistics, machine learning,
+  algorithms, and applied programming**.
 
-  My work combines mathematical reasoning, research, and software development, with a growing focus on **data-driven problem solving**, **cybersecurity-related machine learning**, and **mathematical
-  accessibility tools**.
+  My work combines mathematical reasoning, research, and software development, with a growing focus on **data-driven problem
+  solving**, **cybersecurity-related machine learning**, and **mathematical accessibility tools**.
 
   ## About Me
 
-  - 🔭 I’m currently working on **mathematical accessibility** and **Braille-related tools**.
+  - 🔭 I’m currently working on **mathematical accessibility**, **Braille-related tools**, and the **W-HPC software line**.
   - 📊 I’m interested in **data analysis, statistics, machine learning, and applied mathematics**.
-  - 🧠 Research contributor in **cyberattack classification**, dimensionality reduction, and machine learning evaluation.
-  - 🐍 I work with **Python**, algorithms, technical documentation, and mathematical content processing.
+  - 🧠 Research contributor in **cyberattack classification**, dimensionality reduction, interpretable machine learning, and
+  evaluation workflows.
+  - 🐍 I work with **Python**, algorithms, technical documentation, reproducible experimentation, and mathematical content
+  processing.
   - 🌱 I’m currently strengthening my skills in **SQL, Excel, Tableau, and data analytics workflows**.
   - 🎯 I’m looking for opportunities in **data analysis, machine learning, research, and applied technical projects**.
 
   ## Featured Projects
 
-  ### W-HPC / whpc-kit
+  ### W-HPC Software Line
 
-  Research and software work on the **W-HPC family**, a line of lightweight and interpretable machine learning models for intrusion detection and cyberattack analysis.
+  Research and software work on the **W-HPC family**, a line of lightweight and interpretable machine learning models for
+  intrusion detection and cyberattack analysis.
 
   - Focus: classification, one-class learning, open-world settings, explainability, robustness
   - Tools: Python, scikit-learn, data analysis, reproducible experimentation
-  - Output: research manuscripts and the public software toolkit **whpc-kit**
+  - Output: research manuscripts and public software repositories
+
+  Public repositories:
+  - **[whpc-kit](https://github.com/Hedurtado/whpc-kit)** — core Python toolkit and reproducibility layer for the W-HPC family
+  - **[whpc-studio-community](https://github.com/Hedurtado/whpc-studio-community)** — local community interface for
+  experimenting with W-HPC models without writing code
 
   ### Dimensionality Reduction via Gaussian Random Projection for Cyberattack Classification
 
   Machine learning research project focused on cyberattack classification using the **UNSW-NB15** dataset.
 
-  The project studies preprocessing, dimensionality reduction, and model evaluation with classifiers such as **Random Forest, XGBoost, SVM, Logistic Regression, kNN, and LDA**.
+  The project studies preprocessing, dimensionality reduction, and model evaluation with classifiers such as **Random Forest,
+  XGBoost, SVM, Logistic Regression, kNN, and LDA**.
 
   - Techniques: Gaussian Random Projection, preprocessing, undersampling, classification metrics
   - Tools: Python, scikit-learn, data analysis
